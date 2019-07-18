@@ -107,6 +107,21 @@ class Expression : IExpression
             return false;
     }
 
+    public void NegativeExpression()
+    {
+        for(int i = 0; i < size; i++)
+            if (exps[i] is Substruction sub)
+                {
+                    IExpression[] exs = sub.Getexps();
+                    exps[i] = new Addition(exs[0], exs[1]);
+                }
+            else if (exps[i] is Addition add)
+            {
+                IExpression[] exs = add.Getexps();
+                exps[i] = new Substruction(exs[0], exs[1]);
+            }
+    }
+
     // Parse methods
     private bool IsValue(string s)
     {
@@ -283,6 +298,11 @@ class Addition : IExpression
     {
         return Expression.AddExternalBrackets(exp1.ToString() + " + " + exp2.ToString());
     }
+
+    public IExpression[] Getexps()
+    {
+        return new IExpression[2] { exp1, exp2 };
+    }
 }
 
 class Substruction : IExpression
@@ -300,20 +320,17 @@ class Substruction : IExpression
         exp1 = e1;
         exp2 = e2;
 
-        if (!(((Expression)exp2).IsValueExp()) && ((Expression)exp2).Parsed)
-            exp2 = Negative(exp2);
+        ((Expression)e2).NegativeExpression();
+    }
+
+    public IExpression[] Getexps()
+    {
+        return new IExpression[2] { exp1, exp2 };
     }
 
     public override string ToString()
     {
         return Expression.AddExternalBrackets(exp1.ToString() + " - " + exp2.ToString());
-    }
-
-    public IExpression Negative(IExpression exp)
-    {
-        IExpression e = new Expression("0");
-        
-        return new Expression(new Substruction(e, exp));
     }
 }
 

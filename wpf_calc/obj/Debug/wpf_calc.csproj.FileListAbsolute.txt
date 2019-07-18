@@ -12,3 +12,17 @@ C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csproj.G
 C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csproj.CoreCompileInputs.cache
 C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.exe
 C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.pdb
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\bin\Debug\wpf_calc.exe.config
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\bin\Debug\wpf_calc.exe
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\bin\Debug\wpf_calc.pdb
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.csprojAssemblyReference.cache
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\MainWindow.baml
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\MainWindow.g.cs
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\App.g.cs
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.cache
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.g.resources
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.Properties.Resources.resources
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.csproj.GenerateResource.cache
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.csproj.CoreCompileInputs.cache
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.exe
+C:\Users\Илюха\Desktop\programming\cs19\visual_calc\wpf_calc\obj\Debug\wpf_calc.pdb
