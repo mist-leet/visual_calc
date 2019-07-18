@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\bin\Debug\wpf_calc.exe.config
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\bin\Debug\wpf_calc.exe
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\bin\Debug\wpf_calc.pdb
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\App.g.cs
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.cache
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\MainWindow.baml
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.g.resources
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.Properties.Resources.resources
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.exe
+C:\Users\Илья\source\repos\WPF\wpf_calc\wpf_calc\obj\Debug\wpf_calc.pdb

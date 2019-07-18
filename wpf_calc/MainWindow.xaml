@@ -1,0 +1,13 @@
+﻿<Window x:Class="wpf_calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="250" Width="300">
+    <Grid x:Name="Layout_calc">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" x:Name="text_box_qst" FontSize="25" TextAlignment="Center"/>
+        <TextBox Grid.Row="1" x:Name="text_box_ans" FontSize="25"/>
+    </Grid>
+</Window>
